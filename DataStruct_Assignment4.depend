@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623788315 source:c:\users\mazen\desktop\datastruct_assignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
